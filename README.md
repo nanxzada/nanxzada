@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="Renan-Apple"  />
+  <img src="https://cdn.simpleicons.org/apple/FFFFFF" height="40" alt="Renan-Apple"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Renan Python"  />
   <img width="30" />
