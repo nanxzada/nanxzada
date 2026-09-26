@@ -1,7 +1,7 @@
 ### Olá, eu sou o Renan! 👋
 
 -  Técnico Eletrônico Junior III.
-- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas 3/5.
+- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas 4/5.
 - 🤔 Estudando para ser Full-Stack com foco em Back-End.
 ###
 
